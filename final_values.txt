@@ -1,0 +1,105 @@
+Offensive War Value: 12.913489819999999 
+ Defensive War Value: -4.96387927 
+ Total War Value: 7.949610549999999 for Clayton Keller
+Offensive War Value: 11.165567600000001 
+ Defensive War Value: -5.26345907 
+ Total War Value: 5.902108530000001 for Nick Schmaltz
+Offensive War Value: 10.47440601 
+ Defensive War Value: -4.902157180000001 
+ Total War Value: 5.572248829999999 for Matias Maccelli
+Offensive War Value: 8.73943414 
+ Defensive War Value: -3.9711291199999996 
+ Total War Value: 4.768305020000001 for Nick Bjugstad
+Offensive War Value: 8.53680041 
+ Defensive War Value: -3.62904186 
+ Total War Value: 4.90775855 for Alexander Kerfoot
+Offensive War Value: 8.540562439999999 
+ Defensive War Value: -4.6298362 
+ Total War Value: 3.910726239999999 for Logan Cooley
+Offensive War Value: 8.47711433 
+ Defensive War Value: -4.08592166 
+ Total War Value: 4.391192669999999 for Lawson Crouse
+Offensive War Value: 9.45116329 
+ Defensive War Value: -1.9554441799999998 
+ Total War Value: 7.4957191100000005 for Sean Durzi
+Offensive War Value: 6.08037596 
+ Defensive War Value: -2.3080018900000003 
+ Total War Value: 3.7723740699999992 for Dylan Guenther
+Offensive War Value: 5.99942551 
+ Defensive War Value: -3.39601615 
+ Total War Value: 2.60340936 for Michael Carcone
+Offensive War Value: 5.35086057 
+ Defensive War Value: -2.22470454 
+ Total War Value: 3.12615603 for Jack McBain
+Offensive War Value: 7.4079384600000004 
+ Defensive War Value: -3.3531185499999996 
+ Total War Value: 4.054819910000001 for J.J. Moser
+Offensive War Value: 4.88634418 
+ Defensive War Value: -2.6976914499999998 
+ Total War Value: 2.1886527300000003 for Jason Zucker
+Offensive War Value: 5.70659191 
+ Defensive War Value: -2.69550513 
+ Total War Value: 3.0110867800000003 for Michael Kesselring
+Offensive War Value: 5.62370856 
+ Defensive War Value: -2.8101981700000005 
+ Total War Value: 2.8135103899999994 for Juuso Välimäki
+Offensive War Value: 3.52916379 
+ Defensive War Value: -2.4744944 
+ Total War Value: 1.05466939 for Liam O'Brien
+Offensive War Value: 3.90851793 
+ Defensive War Value: -2.25752505 
+ Total War Value: 1.65099288 for Mathew Dumba
+Offensive War Value: 2.9812716100000003 
+ Defensive War Value: -1.3507081699999999 
+ Total War Value: 1.6305634400000004 for Josh Brown
+Offensive War Value: 2.7476064100000004 
+ Defensive War Value: -1.46473926 
+ Total War Value: 1.2828671500000004 for Barrett Hayton
+Offensive War Value: 1.53898109 
+ Defensive War Value: -0.6050806200000001 
+ Total War Value: 0.93390047 for Josh Doan
+Offensive War Value: 1.32156107 
+ Defensive War Value: -0.47746549000000005 
+ Total War Value: 0.84409558 for Travis Boyd
+Offensive War Value: 2.85385871 
+ Defensive War Value: -1.75816786 
+ Total War Value: 1.09569085 for Travis Dermott
+Offensive War Value: 2.9336557700000006 
+ Defensive War Value: -1.6716168 
+ Total War Value: 1.2620389700000005 for Troy Stecher
+Offensive War Value: 0.63968576 
+ Defensive War Value: -0.12976737000000002 
+ Total War Value: 0.5099183899999999 for Vladislav Kolyachonok
+Offensive War Value: 0.5572153200000001 
+ Defensive War Value: -0.33420340000000004 
+ Total War Value: 0.22301192000000003 for Zach Sanford
+Offensive War Value: 0.22251293 
+ Defensive War Value: -0.059022649999999996 
+ Total War Value: 0.16349028 for John Leonard
+Offensive War Value: 0.23317276 
+ Defensive War Value: -0.045418299999999995 
+ Total War Value: 0.18775446 for Jan Jeník
+Offensive War Value: 0.26887161000000004 
+ Defensive War Value: -0.24659698000000002 
+ Total War Value: 0.022274630000000017 for Miloš Kelemen
+Offensive War Value: 0.13581226 
+ Defensive War Value: -0.0681088 
+ Total War Value: 0.06770346 for Aku Raty
+Offensive War Value: 0.0259628 
+ Defensive War Value: 0.0004293400000000003 
+ Total War Value: 0.02639214 for Cameron Crotty
+Offensive War Value: 0.04218955 
+ Defensive War Value: -0.01981733 
+ Total War Value: 0.022372219999999998 for Justin Kirkland
+Offensive War Value: 0.035698850000000004 
+ Defensive War Value: -0.01981733 
+ Total War Value: 0.015881520000000003 for Patrik Koch
+Offensive War Value: 0.05517095 
+ Defensive War Value: -0.13885352 
+ Total War Value: -0.08368257000000001 for Adam Ružička
+Offensive War Value: 0.1103419 
+ Defensive War Value: -0.07082718000000002 
+ Total War Value: 0.03951471999999999 for Victor Söderström
+Offensive War Value: 0.07139770000000001 
+ Defensive War Value: -0.07074472 
+ Total War Value: 0.0006529800000000113 for Maksymilian Szuber
